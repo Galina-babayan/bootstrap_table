@@ -4,15 +4,8 @@
   box-sizing: border-box;
 }
 
-.card {
-  max-width: 500px;
-}
 .header__logo {
   padding: 20px;
-}
-
-.card-img-top {
-  /* padding: 0px 0px 65% 0px; */
 }
 
 .card-title_1 {
